@@ -1,4 +1,4 @@
-Pycord
+My version of Pycord for dnd-hackathon
 ======
 
 .. image:: https://img.shields.io/discord/881207955029110855?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white
